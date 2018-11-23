@@ -1,0 +1,10 @@
+####忽略targe目录#######
+/target
+####忽略.settings目录#######
+/.settings
+####忽略.classpath文件#######
+.classpath
+####忽略.project文件#######
+.project
+####忽略idea项目文件######
+*.iml
